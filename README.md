@@ -1,4 +1,5 @@
 # SOCIAL DEFENDER
+[![N|Solid](https://api.travis-ci.org/travis-ci/travis-web.svg?branch=master)](https://drawer.sinfonier-project.net/)
 
 A Twitter scanner that notifies abusive messages against users.
 
