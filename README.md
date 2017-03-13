@@ -36,6 +36,10 @@ Closed.
 Want to contribute? Great!
 Please, contact with [Kike Puma](https://linkedin.com/in/kikepuma).
 
+#### Publications
+
+https://community.elevenpaths.com/elevenpaths/topics/deteccion-de-ciberacoso-a-traves-de-twitter
+
 License
 ----
 Read [LICENSE](https://github.com/KikePuma/socialdefender_/blob/master/LICENSE) file.
