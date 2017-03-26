@@ -35,8 +35,6 @@ Closed.
 
 Social Defender was originally developed using Sinfonier technology.
 
-You can find the [![N|Solid](https://camo.githubusercontent.com/f3943fd1bac42d9bc8c92538ae90e9e67f49c141/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d322e372d79656c6c6f772e737667)](https://www.python.org/downloads/) version in the [Python branch](https://github.com/KikePuma/socialdefender_/tree/python).
-
 Want to contribute? Great!
 Please, contact with [Kike Puma](https://linkedin.com/in/kikepuma).
 
