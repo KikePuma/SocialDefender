@@ -15,7 +15,7 @@ A Twitter scanner that notifies abusive messages against users.
 ## #H4G 2017 Project
 [![N|Solid](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKX0aBPb42f0lBByZqpBkdc8nAScKrMjJxkwzAkCXwsOT9mNNg0Q)](https://drawer.sinfonier-project.net/)
 
-> HackForGood es un evento promovido por Telef髇ica y organizado junto a la ETSI de Telecomunicaci髇 de la Universidad Polit閏nica de Madrid, la Fundaci髇 HazloPosible y la startup MashmeTV con el apoyo de la Red de C醫edras Telef髇ica en el que Hackers ForGood de toda Espa馻 proponen retos y desarrollan soluciones para construir un mundo mejor.
+> HackForGood es un evento promovido por Telef贸nica y organizado junto a la ETSI de Telecomunicaci贸n de la Universidad Polit茅cnica de Madrid, la Fundaci贸n HazloPosible y la startup MashmeTV con el apoyo de la Red de C谩tedras Telef贸nica en el que Hackers ForGood de toda Espa帽a proponen retos y desarrollan soluciones para construir un mundo mejor.
 
 ### Installation
 Closed.
@@ -28,6 +28,11 @@ If you want to download Sinfonier Environment in OVA Format, please check Source
 [![Download Virtualized Sinfonier](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/sinfonier/files/latest/download)
 
 Please contact with [Kike Puma](https://linkedin.com/in/kikepuma) if you need more information.
+
+## Screenshots
+![Logo](https://github.com/KikePuma/SocialDefender/blob/master/.images/logo.JPG?raw=true)
+![Result](https://github.com/KikePuma/SocialDefender/blob/master/.images/result.JPG?raw=true)
+![Topology](https://github.com/KikePuma/SocialDefender/blob/master/.images/topology.JPG?raw=true)
 
 #### Members
 | Name | Position | Contact |
