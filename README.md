@@ -29,9 +29,9 @@ If you want to download Sinfonier Environment in OVA Format, please check Source
 
 Please contact with [Kike Puma](https://linkedin.com/in/kikepuma) if you need more information.
 
-## Screenshots
+## Images
 ![Logo](https://github.com/KikePuma/SocialDefender/blob/master/.images/logo.JPG?raw=true)
-![Result](https://github.com/KikePuma/SocialDefender/blob/master/.images/result.JPG?raw=true)
+![Result](https://github.com/KikePuma/SocialDefender/blob/master/.images/result.jpeg?raw=true)
 ![Topology](https://github.com/KikePuma/SocialDefender/blob/master/.images/topology.JPG?raw=true)
 
 #### Members
