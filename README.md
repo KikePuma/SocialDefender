@@ -1,5 +1,5 @@
 # SOCIAL DEFENDER
-[![Travis Build](https://img.shields.io/travis/KikePuma/socialdefender_.svg)](https://travis-ci.org/KikePuma/socialdefender_) ![Made with Love](https://img.shields.io/badge/made%20with-<3-red.svg?style=flat) [![License](https://img.shields.io/github/license/CosasDePuma/Experiment626.svg)](https://github.com/KikePuma/socialdefender_/blob/master/LICENSE)
+[![Travis Build](https://img.shields.io/travis/KikePuma/SocialDefender.svg)](https://travis-ci.org/KikePuma/socialdefender_) ![Made with Love](https://img.shields.io/badge/made%20with-<3-red.svg?style=flat) [![License](https://img.shields.io/github/license/KikePuma/SocialDefender.svg)](https://github.com/KikePuma/SocialDefender/blob/master/LICENSE)
 
 A Twitter scanner that notifies abusive messages against users.
 
@@ -15,7 +15,7 @@ A Twitter scanner that notifies abusive messages against users.
 ## #H4G 2017 Project
 [![N|Solid](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKX0aBPb42f0lBByZqpBkdc8nAScKrMjJxkwzAkCXwsOT9mNNg0Q)](https://drawer.sinfonier-project.net/)
 
-> HackForGood es un evento promovido por Telef贸nica y organizado junto a la ETSI de Telecomunicaci贸n de la Universidad Polit茅cnica de Madrid, la Fundaci贸n HazloPosible y la startup MashmeTV con el apoyo de la Red de C谩tedras Telef贸nica en el que Hackers ForGood de toda Espa帽a proponen retos y desarrollan soluciones para construir un mundo mejor.
+> HackForGood es un evento promovido por Telef髇ica y organizado junto a la ETSI de Telecomunicaci髇 de la Universidad Polit閏nica de Madrid, la Fundaci髇 HazloPosible y la startup MashmeTV con el apoyo de la Red de C醫edras Telef髇ica en el que Hackers ForGood de toda Espa馻 proponen retos y desarrollan soluciones para construir un mundo mejor.
 
 ### Installation
 Closed.
@@ -48,4 +48,4 @@ https://community.elevenpaths.com/elevenpaths/topics/deteccion-de-ciberacoso-a-t
 
 ---
 #### License
-Read [LICENSE](https://github.com/KikePuma/socialdefender_/blob/master/LICENSE) file.
+Read [LICENSE](https://github.com/KikePuma/SocialDefender/blob/master/LICENSE) file.
